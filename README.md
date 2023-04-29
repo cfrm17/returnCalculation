@@ -34,8 +34,10 @@ For a portfolio containing relative return risk factors, changes in the portfoli
 
  
 
-For relative return risk factors, the reported sensitivities (partial derivatives) are multiplied by the corresponding closing rate. See https://finpricing.com/lib/FiBond.html
+For relative return risk factors, the reported sensitivities (partial derivatives) are multiplied by the corresponding closing rate. 
 
+Reference:
 
+https://finpricing.com/FinPricing-ProductBrochure.pdf
 
 
